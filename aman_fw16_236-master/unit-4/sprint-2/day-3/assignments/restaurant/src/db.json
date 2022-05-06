@@ -1,0 +1,324 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "title": "URU brewpark",
+      "categories": "Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4.3,
+      "votes": 668,
+      "time": 30,
+      "reviews": 514,
+      "cost_for_two": 199,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 2,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 2.4,
+      "votes": 755,
+      "time": 30,
+      "reviews": 634,
+      "cost_for_two": 105,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 3,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 2.3,
+      "votes": 734,
+      "time": 30,
+      "reviews": 542,
+      "cost_for_two": 101,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 4,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 3.5,
+      "votes": 939,
+      "time": 30,
+      "reviews": 616,
+      "cost_for_two": 214,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 5,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 3.5,
+      "votes": 843,
+      "time": 30,
+      "reviews": 632,
+      "cost_for_two": 93,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 6,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 1.6,
+      "votes": 763,
+      "time": 30,
+      "reviews": 574,
+      "cost_for_two": 141,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 7,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 3.6,
+      "votes": 613,
+      "time": 30,
+      "reviews": 624,
+      "cost_for_two": 223,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 8,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4.3,
+      "votes": 780,
+      "time": 30,
+      "reviews": 620,
+      "cost_for_two": 93,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      }
+    },
+    {
+      "id": 9,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4,
+      "votes": 970,
+      "time": 30,
+      "reviews": 536,
+      "cost_for_two": 80,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      }
+    },
+    {
+      "id": 10,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 1.5,
+      "votes": 856,
+      "time": 30,
+      "reviews": 542,
+      "cost_for_two": 126,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 11,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 3.6,
+      "votes": 793,
+      "time": 30,
+      "reviews": 597,
+      "cost_for_two": 216,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 12,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 2.8,
+      "votes": 867,
+      "time": 30,
+      "reviews": 584,
+      "cost_for_two": 70,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 13,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4.8,
+      "votes": 976,
+      "time": 30,
+      "reviews": 643,
+      "cost_for_two": 105,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 14,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4.9,
+      "votes": 719,
+      "time": 30,
+      "reviews": 643,
+      "cost_for_two": 184,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 15,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 2.4,
+      "votes": 794,
+      "time": 30,
+      "reviews": 546,
+      "cost_for_two": 79,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 16,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 2.3,
+      "votes": 556,
+      "time": 30,
+      "reviews": 569,
+      "cost_for_two": 161,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 17,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4.1,
+      "votes": 712,
+      "time": 30,
+      "reviews": 579,
+      "cost_for_two": 225,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 18,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 1.9,
+      "votes": 571,
+      "time": 30,
+      "reviews": 526,
+      "cost_for_two": 183,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 19,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 2.6,
+      "votes": 860,
+      "time": 30,
+      "reviews": 526,
+      "cost_for_two": 136,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 20,
+      "title": "URU brewpark",
+      "categories": "Continental, Pizza, Asian, Dessert",
+      "urlToImage": "https://th.bing.com/th/id/R.5e0cf4676bd7513e503b3f1d917f8292?rik=WOZkjcQ8WYZB0Q&riu=http%3a%2f%2fchilis.com.my%2fwp-content%2fuploads%2f2015%2f08%2fhome_bg_img_food.jpg&ehk=523IgZJ0RKnj19rxLRgo5AzSIfbV%2bHl6hL9GM006tBs%3d&risl=&pid=ImgRaw&r=0",
+      "stars": 4.7,
+      "votes": 786,
+      "time": 30,
+      "reviews": 566,
+      "cost_for_two": 53,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    }
+  ]
+}

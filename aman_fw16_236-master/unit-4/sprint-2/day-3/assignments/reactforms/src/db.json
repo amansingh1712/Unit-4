@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "maritalStatus": false,
+      "empName": "huzaifa",
+      "age": "20",
+      "address": "delhi",
+      "salary": "100000",
+      "id": 1
+    },
+    {
+      "maritalStatus": true,
+      "empName": "tony stark",
+      "age": "20",
+      "address": "delhi",
+      "salary": "100000",
+      "id": 2
+    },
+    {
+      "maritalStatus": false,
+      "empName": "name",
+      "age": "10",
+      "address": "dubai",
+      "dept": "Logistic",
+      "salary": "100000",
+      "id": 3
+    },
+    {
+      "maritalStatus": false,
+      "empName": "huzaifa sheikh",
+      "age": "19",
+      "address": "delhi",
+      "dept": "IT",
+      "salary": "100000",
+      "id": 4
+    },
+    {
+      "maritalStatus": false,
+      "empName": "hashir",
+      "age": "22",
+      "address": "delhi",
+      "salary": "100000",
+      "id": 5
+    },
+    {
+      "maritalStatus": false,
+      "empName": "huzaifa sheikh",
+      "age": "20",
+      "address": "dubai",
+      "dept": "IT",
+      "salary": "200000",
+      "id": 6
+    },
+    {
+      "maritalStatus": false,
+      "empName": "huzaifa",
+      "age": "19",
+      "address": "delhi",
+      "salary": "100000",
+      "id": 7
+    },
+    {
+      "maritalStatus": false,
+      "empName": "huzaifa sheikh",
+      "age": "20",
+      "address": "dubai",
+      "salary": "1000000",
+      "id": 8
+    },
+    {
+      "maritalStatus": true,
+      "id": 9
+    }
+  ]
+}
