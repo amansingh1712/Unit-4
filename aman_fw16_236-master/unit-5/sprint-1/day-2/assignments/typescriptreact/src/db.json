@@ -1,0 +1,94 @@
+{
+  "laptops": [
+    {
+      "model": "dell",
+      "year": 2018,
+      "os": "windows",
+      "height": 800,
+      "width": 1200,
+      "price": 10000,
+      "id": 1
+    },
+    {
+      "model": "hp",
+      "year": 2019,
+      "os": "windows",
+      "height": 800,
+      "width": 1200,
+      "price": 20000,
+      "id": 2
+    },
+    {
+      "model": "asus",
+      "year": 2022,
+      "os": "windows",
+      "height": 2400,
+      "width": 1000,
+      "price": 50000,
+      "id": 3
+    },
+    {
+      "model": "samsung",
+      "year": 2022,
+      "os": "tyson",
+      "height": 1000,
+      "width": 500,
+      "price": 10000,
+      "id": 4
+    },
+    {
+      "model": "samsung",
+      "year": 2022,
+      "os": "tyson",
+      "height": 1000,
+      "width": 500,
+      "price": 10000,
+      "id": 5
+    },
+    {
+      "model": "dell alienware",
+      "year": 2022,
+      "os": "windows",
+      "height": 1200,
+      "width": 800,
+      "price": 20000,
+      "id": 6
+    },
+    {
+      "model": "dell alienware",
+      "year": 2022,
+      "os": "windows",
+      "height": 1200,
+      "width": 800,
+      "price": 20000,
+      "id": 7
+    },
+    {
+      "model": "dell alienware",
+      "year": 2020,
+      "os": "linux",
+      "height": 1200,
+      "width": 800,
+      "price": 20000,
+      "id": 8
+    },
+    {
+      "model": "hp",
+      "year": 2020,
+      "os": "windows",
+      "height": 1000,
+      "width": 400,
+      "price": 52525,
+      "id": 9
+    },
+    {
+      "model": "apple",
+      "year": 2020,
+      "os": "mac",
+      "height": 1200,
+      "width": 400,
+      "price": 5000000,
+      "id": 10
+    }
+  ]
+}
