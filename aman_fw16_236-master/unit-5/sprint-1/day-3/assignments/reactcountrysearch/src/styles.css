@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  width: fit-content;
+  margin: auto;
+  gap: 50px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.App > div {
+  padding: 10px 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.countryDivs {
+  margin: 5px 0px;
+}
+
+.countryDivs:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
