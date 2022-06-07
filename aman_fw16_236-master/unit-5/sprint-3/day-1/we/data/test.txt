@@ -1,0 +1,6 @@
+hello RCT201
+
+
+//"type":"commonjs"   for require.
+
+//"type":"module" for  export /import.

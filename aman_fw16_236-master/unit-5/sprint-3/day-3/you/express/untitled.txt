@@ -1,0 +1,19 @@
+//we prefer to insatll nodemon every time for each project because installing it
+ globally is not a preferred way to do it.
+
+>1.npm init -y
+ 2.npm install express
+ 3.npm install nodemon
+
+
+ >In scripts object write:-
+ {
+     "dev":"nodemon index.js"
+ }
+
+ >for that we have to create index.js
+
+ >to run nodemon command is :- npm run dev  //it is gonna start nodemon which is gonna 
+  run index.js for you.
+
+  

@@ -1,0 +1,21 @@
+// npm init -y
+
+//npm install --save-dev jest
+
+//jest is library created by facebook to test mainly react but it became
+so famous that many started using it for unit tests as well.
+
+
+//jest   --command to run jest
+
+
+//  yarn add @testing-library/react react-test-renderer @testing-library/jest-dom @testing-library/user-event --save-dev
+
+
+//yarn test  similar to npm run test.
+
+
+jest how to run single test suite `jest -t "Button Tests"
+
+npm install --save-dev react-test-renderer
+

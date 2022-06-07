@@ -1,0 +1,15 @@
+//npm run test
+
+//npm install cypress
+
+//npm create vitess
+
+//npm install
+
+//npm run dev
+
+//npx cypress verify
+
+
+  /// <reference types="cypress"/>
+to get auto suggestions in cypress use -  /// <reference types="cypress"/>

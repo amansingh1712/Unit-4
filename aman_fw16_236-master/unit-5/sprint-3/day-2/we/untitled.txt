@@ -1,0 +1,59 @@
+>protocol-stpes to follow.
+
+>chunk-is part of entire data.or fragment of data.chunk is like data packets.one
+  chunk is one data packet.
+
+
+>We have tp first convert javascript object into string to send to the server
+ in form of http request.
+
+
+>http verb -is what action u want to perform on the server.
+
+>SORT -is not a standard verb.
+
+>standard verbs -are   GET, POST,PUT,DELETE,PATCH
+-PATCH  is not a standard verb most likely.
+-C R U D -Create Read Update Delete
+-GET - get data.GET is idempotent/idempotency.
+
+
+-POST -is used to create a new data.POST is not idempotent.
+
+
+-PUT-is used to modify data.U can create user with PUT also.If exist will be updated,
+  if not user will be created.For PUT request u have to give entire object.
+  PUT is idempotent.
+
+
+-PATCH-  It only used for modification.It can not create new data like PUT.
+It is not idempotent.
+
+-idempotent -same request  give same results in multiple requests.
+
+
+-DELETE- It only used for deletion.It is idempotent.
+
+
+
+//FORMATS OF REQUEST:-
+>>POST /users/ HTTP1/1
+HEADERS
+...
+...
+...
+...
+
+LOREM IPSUM
+
+
+>>GET /users/ HTTP
+HEADERS
+...
+...
+....
+
+
+
+>>benchmarking
+--  autocanon --http://localhost:8080/stream

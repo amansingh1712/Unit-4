@@ -1,0 +1,52 @@
+//>>Most important features of Express are:-
+   1.Routing 
+   2.Middelware 
+   3.Flexible
+
+
+ //One character takes one byte. space is also a character.
+
+
+ //nodejs is just a javascript.
+ //node is nodejs it is runtime.
+ //nodejs is a runtime that runs only one sytem.
+
+
+
+// (req,res)=>{
+    res.render("index.html")
+}     //it can render the html files also on your request it is a feature of Express.
+
+
+//   ``==""   >>Backtick is same as the string.
+
+//listen EADDRINUSE: address already in use :::8080  >> to solve this error use:-
+// 1. command  -> pkill node   or pkill nodejs
+
+//Servers:-
+//1.hopscotch.io
+//2.postman
+//3.thunderclient extension of vscode 
+//4.insominia
+
+
+//fetch works in nodejs as well.
+
+// fetch.js is not in node 16.It is in node 17.It will be streamlined in node 18.
+
+
+
+// writing files with the help of fs api is very slow you should not do this.It is 
+just for checking purpose.
+
+
+//Generic way to write files will be using a proper database.
+  
+
+  //benchmark command :->  npx autocannon {http://localhost:8080/path}
+
+
+
+
+  //send is wrapper around end to support multiple responses.
+
