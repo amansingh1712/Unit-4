@@ -1,4 +1,3 @@
-import './App.css';
 import styled from "styled-components";
 
 const Button = styled.button`
@@ -16,18 +15,18 @@ const Button = styled.button`
     props.type === "primary"
       ? `background-color:#2591fe;border:none;color:white;`
       : props.type === "dashed"
-      ? `border-style: dotted;`
-      : props.type === "text"
-      ? `border:none`
-      : props.type === "link"
-      ? `border:none;color:#2591fe;`
-      : ``}
+        ? `border-style: dotted;`
+        : props.type === "text"
+          ? `border:none`
+          : props.type === "link"
+            ? `border:none;color:#2591fe;`
+            : ``}
 `;
 
 function App() {
   return (
     <div className="App">
-       <Button>Default Button</Button>
+      <Button>Default Button</Button>
       <Button type={"primary"}>Primary Button</Button>
       <Button type={"dashed"}>Dashed Button</Button>
       <Button type={"text"}>Text Button</Button>

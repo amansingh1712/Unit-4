@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import ShoppingCart from "./ShoppingCart";
+// import ShoppingCart from "./ShoppingCart";
 import { Link, useNavigate } from "react-router-dom";
 
 const NavBarStyle = styled.div`
@@ -58,7 +58,7 @@ const NavBar = () => {
             <Link to="/contactUs">Contact Us</Link>
           </div>
           <div>
-            <ShoppingCart />
+            {/* <ShoppingCart /> */}
           </div>
         </div>
       </NavBarStyle>

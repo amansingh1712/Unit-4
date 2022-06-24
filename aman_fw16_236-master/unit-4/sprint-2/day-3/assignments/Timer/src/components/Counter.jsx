@@ -20,7 +20,7 @@ function Counter() {
     if (count < stopcount) {
       id = setInterval(() => {
         setCount((count) => {
-          if (count == stopcount) {
+          if (count === stopcount) {
             clearInterval(id);
             return count;
           }
@@ -30,11 +30,11 @@ function Counter() {
     } else {
       id = setInterval(() => {
         setCount((count) => {
-          if (count == stopcount) {
+          if (count === stopcount) {
             clearInterval(id);
             return count;
           }
-          return Number(count) - 1;
+          return Number(count);
         });
       }, 1000);
     }
@@ -42,7 +42,7 @@ function Counter() {
     return () => {
       clearInterval(id);
     };
-  }, [start]);
+  }, [count, stopcount]);
 
   const resetAll = () => {
     setValue("");

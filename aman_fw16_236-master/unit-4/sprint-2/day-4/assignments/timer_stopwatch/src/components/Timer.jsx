@@ -18,11 +18,11 @@ function Timer() {
     if (stop) {
       id = setInterval(() => {
         if (seconds < 1) {
-          if (minutes == 0) {
+          if (minutes === 0) {
             setminutes(0);
             setseconds(59);
             clearInterval(id);
-            if (seconds == 0) {
+            if (seconds === 0) {
               reset();
             }
           } else {

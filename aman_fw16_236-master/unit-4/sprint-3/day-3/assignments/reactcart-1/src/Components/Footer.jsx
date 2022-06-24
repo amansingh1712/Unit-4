@@ -1,10 +1,10 @@
 import React from "react";
 import styled from "styled-components";
-import facebookImg from "../../public/assets/facebook.png";
-import twitterImg from "../../public/assets/twitter.png";
-import instagramImg from "../../public/assets/instagram.png";
-import pinterestImg from "../../public/assets/pinterest.png";
-import youtubeImg from "../../public/assets/youtube.png";
+// import facebookImg from "../../public/assets/facebook.png";
+// import twitterImg from "../../public/assets/twitter.png";
+// import instagramImg from "../../public/assets/instagram.png";
+// import pinterestImg from "../../public/assets/pinterest.png";
+// import youtubeImg from "../../public/assets/youtube.png";
 import { Link } from "react-router-dom";
 
 const FooterStyle = styled.div`
@@ -79,19 +79,19 @@ const Footer = () => {
           <div>SUBSCRIBE</div>
           <div style={{ display: "flex", gap: "15px", marginTop: "15px" }}>
             <div>
-              <SocialImg src={facebookImg} alt="facebookImg" />
+              <SocialImg src="/facebook.png" alt="facebookImg" />
             </div>
             <div>
-              <SocialImg src={twitterImg} alt="twitterImg" />
+              <SocialImg src="/twitter.png" alt="twitterImg" />
             </div>
             <div>
-              <SocialImg src={instagramImg} alt="instagramImg" />
+              <SocialImg src="/instagram.png" alt="instagramImg" />
             </div>
             <div>
-              <SocialImg src={pinterestImg} alt="pinterestImg" />
+              <SocialImg src="/pinterest.png" alt="pinterestImg" />
             </div>
             <div>
-              <SocialImg src={youtubeImg} alt="youtubeImg" />
+              <SocialImg src="/youtube.png" alt="youtubeImg" />
             </div>
           </div>
         </div>

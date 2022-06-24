@@ -9,12 +9,12 @@ function Stopwatch() {
     let id;
     if (stop) {
       id = setInterval(() => {
-        if (milliseconds > 99) {
+        if (milliseconds > 999) {
           setseconds(seconds + 1);
           setmilliseconds(0);
           clearInterval(id);
         }
-        if (milliseconds <= 99) {
+        if (milliseconds <= 999) {
           setmilliseconds(milliseconds + 1);
         }
       }, 10);

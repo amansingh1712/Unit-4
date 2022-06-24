@@ -2,7 +2,7 @@ import React from "react";
 import Stopwatch from "./Stopwatch";
 import Timer from "./Timer";
 
-function Timer_Stopwatch() {
+function TimerStopwatch() {
   const [show, setshow] = React.useState(true);
   return (
     <>
@@ -21,4 +21,4 @@ function Timer_Stopwatch() {
   );
 }
 
-export default Timer_Stopwatch;
+export default TimerStopwatch;
